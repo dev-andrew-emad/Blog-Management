@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Blog Management\blogbusinesslayer\obj\Debug\net8.0\blogbusinesslayer.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Blog Management\blogbusinesslayer\obj\Debug\net8.0\blogbusinesslayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Blog Management\blogbusinesslayer\obj\Debug\net8.0\blogbusinesslayer.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Blog Management\blogbusinesslayer\obj\Debug\net8.0\blogbusinesslayer.AssemblyInfo.cs
+C:\Users\admin\source\repos\Blog Management\blogbusinesslayer\obj\Debug\net8.0\blogbusinesslayer.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Blog Management\blogbusinesslayer\bin\Debug\net8.0\blogbusinesslayer.deps.json
+C:\Users\admin\source\repos\Blog Management\blogbusinesslayer\bin\Debug\net8.0\blogbusinesslayer.dll
+C:\Users\admin\source\repos\Blog Management\blogbusinesslayer\bin\Debug\net8.0\blogbusinesslayer.pdb
+C:\Users\admin\source\repos\Blog Management\blogbusinesslayer\bin\Debug\net8.0\blogdatalayer.dll
+C:\Users\admin\source\repos\Blog Management\blogbusinesslayer\bin\Debug\net8.0\blogdatalayer.pdb
+C:\Users\admin\source\repos\Blog Management\blogbusinesslayer\obj\Debug\net8.0\blogbusi.454476D1.Up2Date
+C:\Users\admin\source\repos\Blog Management\blogbusinesslayer\obj\Debug\net8.0\blogbusinesslayer.dll
+C:\Users\admin\source\repos\Blog Management\blogbusinesslayer\obj\Debug\net8.0\refint\blogbusinesslayer.dll
+C:\Users\admin\source\repos\Blog Management\blogbusinesslayer\obj\Debug\net8.0\blogbusinesslayer.pdb
+C:\Users\admin\source\repos\Blog Management\blogbusinesslayer\obj\Debug\net8.0\ref\blogbusinesslayer.dll

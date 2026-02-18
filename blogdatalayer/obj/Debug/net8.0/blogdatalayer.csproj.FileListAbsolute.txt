@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Blog Management\blogdatalayer\obj\Debug\net8.0\blogdatalayer.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Blog Management\blogdatalayer\obj\Debug\net8.0\blogdatalayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Blog Management\blogdatalayer\obj\Debug\net8.0\blogdatalayer.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Blog Management\blogdatalayer\obj\Debug\net8.0\blogdatalayer.AssemblyInfo.cs
+C:\Users\admin\source\repos\Blog Management\blogdatalayer\obj\Debug\net8.0\blogdatalayer.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Blog Management\blogdatalayer\bin\Debug\net8.0\blogdatalayer.deps.json
+C:\Users\admin\source\repos\Blog Management\blogdatalayer\bin\Debug\net8.0\blogdatalayer.runtimeconfig.json
+C:\Users\admin\source\repos\Blog Management\blogdatalayer\bin\Debug\net8.0\blogdatalayer.dll
+C:\Users\admin\source\repos\Blog Management\blogdatalayer\bin\Debug\net8.0\blogdatalayer.pdb
+C:\Users\admin\source\repos\Blog Management\blogdatalayer\obj\Debug\net8.0\blogdatalayer.dll
+C:\Users\admin\source\repos\Blog Management\blogdatalayer\obj\Debug\net8.0\refint\blogdatalayer.dll
+C:\Users\admin\source\repos\Blog Management\blogdatalayer\obj\Debug\net8.0\blogdatalayer.pdb
+C:\Users\admin\source\repos\Blog Management\blogdatalayer\obj\Debug\net8.0\blogdatalayer.genruntimeconfig.cache
+C:\Users\admin\source\repos\Blog Management\blogdatalayer\obj\Debug\net8.0\ref\blogdatalayer.dll

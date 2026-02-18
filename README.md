@@ -55,7 +55,7 @@ BlogManagement/
 ### Setup
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone 
 cd your-repo
 Configure the connection string in appsettings.json:
 
@@ -75,7 +75,7 @@ POST /api/auth/login – Login and get JWT
 
 GET /api/posts – List all posts
 
-POST /api/posts – Create a new post (Admin only)
+POST /api/posts – Create a new post 
 
 POST /api/comments – Add comment to a post
 
